@@ -1,0 +1,7 @@
+C:\Users\farantes\source\repos\DesafioDonRock\DesafioDonRock\bin\Debug\DesafioDonRock.exe.config
+C:\Users\farantes\source\repos\DesafioDonRock\DesafioDonRock\bin\Debug\DesafioDonRock.exe
+C:\Users\farantes\source\repos\DesafioDonRock\DesafioDonRock\bin\Debug\DesafioDonRock.pdb
+C:\Users\farantes\source\repos\DesafioDonRock\DesafioDonRock\obj\Debug\DesafioDonRock.csprojAssemblyReference.cache
+C:\Users\farantes\source\repos\DesafioDonRock\DesafioDonRock\obj\Debug\DesafioDonRock.csproj.CoreCompileInputs.cache
+C:\Users\farantes\source\repos\DesafioDonRock\DesafioDonRock\obj\Debug\DesafioDonRock.exe
+C:\Users\farantes\source\repos\DesafioDonRock\DesafioDonRock\obj\Debug\DesafioDonRock.pdb
